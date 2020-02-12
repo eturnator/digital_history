@@ -1,4 +1,4 @@
-# Github Pages Tutorial  
+# Digital History Spring 2020
 This repository contains a tutorial on how to use [Github Pages](https://pages.github.com/) to host
 a personal website. 
 

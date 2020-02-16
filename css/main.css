@@ -30,6 +30,12 @@ p {
     line-height: 2rem;
 }
 
+.font_diff {font-family: "Times New Roman", Times, serif;
+}
+
+#h3red { color: DarkRed;
+}
+
 img {
     max-width: 100%;
     height: auto;
